@@ -1,0 +1,30 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    background-color: antiquewhite;
+}
+
+input{
+    border-radius: 6px;
+    padding: 5px 100px 5px 20px;
+}
+
+button{
+    margin-right: 12px ;
+    border-radius: 5px;
+    border-style: groove;
+    border-width: 2px;
+}
+
+.responses-container{
+    font-size: 20px;
+    margin: 20px 0px 20px 50px;
+}
+
+.comment-container{
+    margin-bottom: 20px;
+}
+
+.comment-container button{
+    margin-top: 20px;
+}
